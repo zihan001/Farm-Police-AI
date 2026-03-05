@@ -1,5 +1,11 @@
 # 🌾 Farm Incident Response Agent
 
+## 🎥 Demo Video
+
+Click below to watch the demo:
+
+https://github.com/user-attachments/assets/7afcd24c-be63-4a44-a852-e36b0d5c29ba
+
 An **agentic AI workflow** built with **IBM watsonx Orchestrate** that transforms farm alerts and human reports into structured operational responses.
 
 The system analyzes incidents, determines severity, retrieves standard operating procedures (SOPs), and generates actionable checklists and escalation decisions — helping farms respond faster and more consistently to operational issues.
